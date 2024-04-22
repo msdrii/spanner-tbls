@@ -1,0 +1,2 @@
+# .tbls.yml
+dsn: spanner://valiant-song-420805/test-instance/finance-db?creds=/Users/masanori/Documents/50.Tech/81.GCP_keys/valiant-song-420805-b0b3ff779a30.json
